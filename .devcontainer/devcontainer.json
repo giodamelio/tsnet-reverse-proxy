@@ -1,0 +1,9 @@
+// For format details, see https://aka.ms/devcontainer.json. For config options, see the
+// README at: https://github.com/devcontainers/templates/tree/main/src/go
+{
+	"name": "tsnet-reverse-proxy",
+	"image": "mcr.microsoft.com/devcontainers/go:0-1-bullseye",
+	"features": {
+		"ghcr.io/jungaretti/features/ripgrep:1": {}
+	}
+}
